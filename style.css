@@ -1,0 +1,166 @@
+#a{
+    background-color: rgba(19, 25, 33);
+    color: white;
+    padding: 10px;
+    border: none;;
+    height: 40px;
+    width: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+ }
+ img{
+    width: 8%;
+    height: 120%;
+}
+img:hover{
+    border: 1px solid white;
+}
+h6{
+    position: absolute;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(146, 152, 148);
+    bottom: 665px;
+    left: 175px;
+}   
+
+h4{
+    position: absolute;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    bottom: 655px;
+    left: 175px;
+}
+h1{
+    position: absolute;
+    font-size: 20px;
+    color: rgb(225, 15, 15);
+    bottom: 655px;
+    left: 150px;
+}
+#icon{
+position: absolute;
+left: -15px;
+bottom: 10px;
+}
+#all{
+    position: absolute;
+    background-color: rgba(230, 230, 230);
+    width: 50px;
+    height: 40px;
+    left: 300px;
+    color: white;
+    border: 1px solid white;
+    color:rgba(169, 172, 175);
+    top: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding: 7px;
+}
+#all:hover{
+    background-color: rgb(207, 206, 206);
+    color: black;
+}
+#search-input{
+    position: absolute;
+    width: 715px;
+    height: 38px;
+    left: 350px;
+    top: 10px;
+    border: none;
+    padding-left: 10px;
+}
+#search{
+    position: absolute;
+    background-color: rgba(254, 189, 105);
+    width: 52px;
+    height: 40px;
+    left: 1065px;
+    color: white;
+    border: 1px solid white;
+    color:rgba(169, 172, 175);
+    top: 10px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-color: rgba(254, 189, 105);
+}
+#flag{
+    position: absolute;
+    width: 70px;
+    height: 30px;
+    left: 1140px;
+    top: 20px;
+}
+#flag:hover{
+    border: 1px solid white;
+}
+#user-greeting{
+    position: absolute;
+    left: 1220px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    bottom: 675px;
+    
+}
+
+#account{
+    position: absolute;
+    left: 1220px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    bottom: 650px;
+    font-weight: bold;
+    width: 130px;
+}
+
+#returns{
+    position: absolute;
+    left: 1365px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    bottom: 675px;
+    
+}
+#returns:hover{
+    border: 1px solid white;
+}
+#orders{
+    position: absolute;
+    left: 1365px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    bottom: 645px;
+    font-weight: bold;
+    font-size: 17px;
+}
+#orders:hover{
+    border: 1px solid white;
+}
+#cart{
+    position: absolute;
+    left: 1460px;
+    font-size: 20px;
+    color: white;
+    bottom: 655px;
+}
+#location:hover{
+    border: 1px solid white;
+}
+#greet:hover{
+    border: 1px solid white;
+}
+#cart-text{
+    position: absolute;
+    left: 1490px;
+    font-size: 15px;
+    color: white;
+    bottom: 643px;
+    font-family: Arial, Helvetica, sans-serif;
+}
