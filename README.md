@@ -36,7 +36,7 @@ This project was developed for frontend development practice and to improve unde
 
 ## Live Demo
 
-🔗 https://dev-atharvak.github.io/Amazon-Search-bar-Clone-/
+🔗 https://dev-atharvak.github.io/Amazon-Search-bar-Clone/
 
 # Author
 
