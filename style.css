@@ -107,6 +107,10 @@ bottom: 10px;
     
 }
 
+#user-greeting:hover{
+    border: 1px solid white;
+}
+
 #account{
     position: absolute;
     left: 1220px;
@@ -116,6 +120,10 @@ bottom: 10px;
     bottom: 650px;
     font-weight: bold;
     width: 130px;
+}
+
+#account:hover{
+    border: 1px solid white;
 }
 
 #returns{
